@@ -8,7 +8,6 @@ const typeDefs = readFileSync(
   'utf-8'
 )
 
-
 export const schema = createSchema({
   typeDefs,
   resolvers: {

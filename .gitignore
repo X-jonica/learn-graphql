@@ -1,6 +1,1 @@
 code/node_modules/
-code/.env
-code/.env.local
-code/.env.development
-code/.env.test
-code/.env.production
